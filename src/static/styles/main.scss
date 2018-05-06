@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.playmat {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('/static/images/playmat.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: brightness(0.6);
+}
